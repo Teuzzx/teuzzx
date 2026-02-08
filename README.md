@@ -1,54 +1,55 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
-###
+<p align="center">
+  Meu nome é <strong>Mateus Victor</strong> (Teuzz) 🚀 <br>
+  Tenho 18 anos e estou em busca da minha <strong>primeira vaga como Desenvolvedor Fullstack Jr</strong>.
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-</div>
+<p align="center">
+  Atualmente estudo e desenvolvo projetos focados em <strong>Desenvolvimento Web</strong> e <strong>Análise e Desenvolvimento de Sistemas</strong>, sempre buscando evolução constante e boas práticas.
+</p>
 
-###
+---
+
+### 🚀 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,python,mysql,git,github,figma,vscode" height="60"/>
 </div>
 
-###
+---
 
-<br clear="both">
+### 📈 Atualmente focado em
+- Desenvolvimento **Frontend e Backend**
+- Criação de projetos práticos
+- **Tráfego Pago (Ads)** aplicado a produtos e serviços digitais
+- Construir um portfólio sólido para o mercado
+
+---
+
+### 🌐 Conecte-se comigo
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Teuzzx&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/SEU-DISCORD" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </div>
 
-###
+---
 
-<br clear="both">
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Teuzzx&theme=dracula&hide_border=false" height="150"/>
+</div>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Teuzzx/Teuzzx/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Teuzzx/Teuzzx/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Teuzzx/Teuzzx/output/pacman-contribution-graph.svg">
 </picture>
-
-###
