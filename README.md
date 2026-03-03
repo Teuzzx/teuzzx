@@ -14,7 +14,7 @@
 ### 🚀 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,python,mysql,git,github,figma,vscode" height="60"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,java,python,mysql,git,github,figma,vscode" height="60"/>
 </div>
 
 ---
